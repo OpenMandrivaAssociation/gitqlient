@@ -10,7 +10,6 @@ Source0:    %{url}/releases/download/v%{version}/%{name}_%{version}.tar.gz
  
 BuildRequires: desktop-file-utils
 BuildRequires: git-core
-BuildRequires: pkgconfig(Qt5)
 BuildRequires: pkgconfig(Qt5Core)
 BuildRequires: pkgconfig(Qt5Gui)
 BuildRequires: pkgconfig(Qt5Network)
