@@ -7,7 +7,8 @@ Summary:    Multi-platform Git client written with Qt
 License:    LGPLv2+
 URL:        https://github.com/francescmm/GitQlient
 Source0:    %{url}/releases/download/v%{version}/%{name}_%{version}.tar.gz
- 
+
+BuildRequires: qmake5
 BuildRequires: desktop-file-utils
 BuildRequires: git-core
 BuildRequires: pkgconfig(Qt5Core)
