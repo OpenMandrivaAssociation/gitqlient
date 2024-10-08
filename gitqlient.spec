@@ -2,7 +2,7 @@
 %global AName GitQlient
  
 Name:       gitqlient
-Version:    1.6.2
+Version:    1.6.3
 Release:    1
 Summary:    Multi-platform Git client written with Qt
 License:    LGPLv2+
